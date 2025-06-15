@@ -19,10 +19,3 @@ A simple and customizable password generator built with **React**. It allows use
 
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
-
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/react-password-generator.git
-   ```
